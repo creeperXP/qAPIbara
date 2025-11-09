@@ -1,4 +1,4 @@
-# SentinelTwin: AI Digital Twin for Service Evolution
+qaPI
 
 🧠 **Nemotron** plans and executes version comparison workflows.  
 🔮 **Gemini** explains regressions in plain English and suggests fixes.  
