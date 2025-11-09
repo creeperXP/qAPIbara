@@ -30,7 +30,7 @@ This will change the message to: "Log in to dev-oxbg5ukfe4ngqpqg to continue to 
 
 If you have a custom Auth0 domain, you can:
 1. Set up a custom domain in Auth0
-2. This will remove the "dev-oxbg5ukfe4ngqpqg" part
+2. This will remove the "[ ]" part
 3. The message will just say "Continue to qaPI"
 
 ### Current Code Configuration
