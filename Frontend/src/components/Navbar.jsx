@@ -48,7 +48,7 @@ const Navbar = () => {
             {/* Logo on the left - put your image in "public/images/logo.svg" */}
             <img src="/images/logo.png" alt="qaPI logo" className="w-10 h-10 rounded opacity-50" />
             <div className="text-2xl font-bold gradient-text neon-glow">
-              qaPI
+              qAPIbara
             </div>
           </Link>
 
