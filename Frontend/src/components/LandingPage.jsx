@@ -106,7 +106,7 @@ export default function LandingPage() {
           transition={{ duration: 0.6, delay: 0.4 }}
           className="text-2xl md:text-3xl mb-4 text-gray-300 font-light"
         >
-          AI-Powered API Regression Detection
+          AI-Powered Service Regression Detection
         </motion.p>
 
         {/* Description */}
@@ -116,7 +116,7 @@ export default function LandingPage() {
           transition={{ duration: 0.6, delay: 0.6 }}
           className="text-lg md:text-xl mb-12 text-gray-400 max-w-2xl mx-auto leading-relaxed"
         >
-          Monitor, compare, and analyze API versions with intelligent regression detection. 
+          Monitor, compare, and analyze service versions with intelligent regression detection. 
         </motion.p>
 
         {/* Feature highlights */}
@@ -129,7 +129,7 @@ export default function LandingPage() {
           <div className="bg-dark-card/50 backdrop-blur-sm border border-neon-cyan/30 rounded-xl p-6 hover:border-neon-cyan transition-all">
             <div className="text-4xl mb-3">🔍</div>
             <h3 className="text-xl font-bold text-neon-cyan mb-2">Smart Comparison</h3>
-            <p className="text-gray-400 text-sm">Compare API versions side-by-side with intelligent diff detection</p>
+            <p className="text-gray-400 text-sm">Compare versions side-by-side with intelligent diff detection</p>
           </div>
           <div className="bg-dark-card/50 backdrop-blur-sm border border-neon-pink/30 rounded-xl p-6 hover:border-neon-pink transition-all">
             <div className="text-4xl mb-3">🤖</div>
@@ -139,7 +139,7 @@ export default function LandingPage() {
           <div className="bg-dark-card/50 backdrop-blur-sm border border-neon-purple/30 rounded-xl p-6 hover:border-neon-purple transition-all">
             <div className="text-4xl mb-3">📊</div>
             <h3 className="text-xl font-bold text-neon-purple mb-2">Real-time Monitoring</h3>
-            <p className="text-gray-400 text-sm">Track API health and performance with live dashboards</p>
+            <p className="text-gray-400 text-sm">Track health and performance with live dashboards</p>
           </div>
         </motion.div>
 
