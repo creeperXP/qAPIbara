@@ -15,7 +15,7 @@ The provided redirect_uri is not in the list of allowed callback URLs.
 
 ### Step 2: Find Your Application
 1. Click **Applications** in the left sidebar
-2. Find and click on your application (the one with Client ID: `xTKXKJgXWFQ255H9gFOLICLstS2oBOEs`)
+2. Find and click on your application (the one with Client ID: ` `)
 
 ### Step 3: Add Callback URLs
 1. Click on the **Settings** tab
