@@ -11,7 +11,7 @@ The provided redirect_uri is not in the list of allowed callback URLs.
 ### Step 1: Go to Auth0 Dashboard
 1. Open: https://manage.auth0.com/
 2. Login to your account
-3. Select your tenant: **dev-oxbg5ukfe4ngqpqg**
+3. Select your tenant: **' '**
 
 ### Step 2: Find Your Application
 1. Click **Applications** in the left sidebar
